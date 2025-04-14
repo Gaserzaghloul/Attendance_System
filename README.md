@@ -32,7 +32,7 @@ pip install -r requirements.txt
 🧠 Usage
 Run encode_faces.py to encode known faces.
 
-Launch attendance_system.py to start real-time tracking.
+Launch main.py to start real-time tracking.
 
 🎯 Results
 95%+ recognition accuracy on real-world datasets.

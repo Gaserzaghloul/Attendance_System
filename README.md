@@ -1,8 +1,8 @@
 Face Attendance System
-📌 Overview
+## Overview
 A real-time facial recognition system that automates attendance tracking through a webcam. Utilizes Python’s OpenCV for video processing and the face_recognition library for facial detection and matching.
 
-🛠️ Technologies Used
+## Technologies Used
 Python
 
 OpenCV
@@ -13,7 +13,7 @@ NumPy
 
 CSV (for logging)
 
-🚀 Features
+## Features
 Real-time face detection and recognition.
 
 Automatic attendance logging with timestamps.
@@ -22,19 +22,19 @@ Dynamic addition of new faces without retraining.
 
 Fast and scalable architecture.
 
-📥 Installation
+Installation
 bash
 Copy
 Edit
 git clone https://github.com/Gaserzaghloul/face-attendance-system.git
 cd face-attendance-system
 pip install -r requirements.txt
-🧠 Usage
+Usage
 Run encode_faces.py to encode known faces.
 
 Launch main.py to start real-time tracking.
 
-🎯 Results
+Results
 95%+ recognition accuracy on real-world datasets.
 
 Fast face matching even with large datasets.

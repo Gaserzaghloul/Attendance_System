@@ -2,6 +2,8 @@ Face Attendance System
 ## Overview
 A real-time facial recognition system that automates attendance tracking through a webcam. Utilizes Python’s OpenCV for video processing and the face_recognition library for facial detection and matching.
 
+![PHOTO-2025-05-23-11-19-37](https://github.com/user-attachments/assets/e1975523-b551-497e-bcc4-20daf2f9721f)
+
 ## Technologies Used
 Python
 
